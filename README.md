@@ -26,18 +26,18 @@
 
 ### On Tablets or Small screens
 
-![image](https://github.com/user-attachments/assets/c0e74976-4ffd-4318-b6c6-6f5f7a645905)
+![image](https://github.com/user-attachments/assets/3fa32864-5b37-4637-a896-45761cb16bbd)
 
-![image](https://github.com/user-attachments/assets/0f7ea159-75db-403d-aa9f-715d9b9d8ced)
+![image](https://github.com/user-attachments/assets/18782840-3dea-4f4e-8ed5-0c9c26c564d4)
 
-![image](https://github.com/user-attachments/assets/3d374493-48e7-4359-bf0b-aebd76a6e7e2)
+![image](https://github.com/user-attachments/assets/103390fa-e963-43eb-81bd-34d168c021a4)
 
 ---
 
 ### On Phones
 
-![image](https://github.com/user-attachments/assets/2084a14b-61e2-486d-9c9b-fe432f8d84f5)
+![image](https://github.com/user-attachments/assets/629995e3-7e6e-4df1-b76e-a8025af90b30)
 
-![image](https://github.com/user-attachments/assets/e064eb0c-f77b-4fd1-954b-9b6eb973c5ad)
+![image](https://github.com/user-attachments/assets/02165547-361f-43c2-a769-2d7522e75a79)
 
-![image](https://github.com/user-attachments/assets/219d16ae-d2ab-4ac3-9a8e-ef41a21a3fec)
+![image](https://github.com/user-attachments/assets/e8f5c80c-ff4a-4195-930f-1be2516063f0)
