@@ -26,7 +26,7 @@
 
 ### On Tablets or Small screens
 
-![image](https://github.com/user-attachments/assets/d6e5ecdb-6f12-41e7-9f35-e815291a66e3)
+![image](https://github.com/user-attachments/assets/c0e74976-4ffd-4318-b6c6-6f5f7a645905)
 
 ![image](https://github.com/user-attachments/assets/0f7ea159-75db-403d-aa9f-715d9b9d8ced)
 
