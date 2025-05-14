@@ -538,7 +538,7 @@ footer {
 @media only screen and (min-width: 1380px) {
     header {
         /* height: 100%; */
-        gap: 14vmax;
+        /* gap: 14vmax; */
         box-shadow: 0px 10px 150px 30px rgb(34 47 143);
     }
 
@@ -779,7 +779,9 @@ footer {
         border-left: 3px solid rgb(113, 11, 11);
         border-right: 3px solid rgb(113, 11, 11);
         box-shadow: 0px 0px 500px 80px rgb(93, 3, 3);
-        gap: 10vmax;
+        /* gap: 10vmax; */
+        min-height: 0vh;
+        gap: 15vh;
     }
 
     .nav-bar {
