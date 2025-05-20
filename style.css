@@ -910,3 +910,27 @@ footer {
         grid-template-columns: repeat(1, 1fr);
     }
 } 
+
+
+
+#backToTopBtn {
+    position: fixed;
+    bottom: 40px;
+    right: 40px;
+    padding: 10px 20px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    background-color: red;
+    color: white;
+    cursor: pointer;
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+    z-index: 1000;
+    pointer-events: none; /* Disable click when invisible */
+}
+
+#backToTopBtn.show {
+    opacity: 1;
+    pointer-events: auto; /* Enable click when visible */
+}
